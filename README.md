@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi Devs :wave:
 
-<!--
-**dmshirochenko/dmshirochenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but curretly living in Barcelona(Spain)
+  </samp>
+  <br/>
+</p>
 
-Here are some ideas to get you started:
+## Current projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact me :speech_balloon:
+
+Get in touch wit me!
+
+
+:bird: <a href="https://twitter.com/dmshirochenko">Chat with me on Twitter</a>
+
+:e-mail: <a href="mailto:dmshirochenko@gmail.com">Send an e-mail</a>
