@@ -14,6 +14,8 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 3. **Simple TCP Client Server**: This Python project utilizes asyncio to implement a simple TCP Client Server system. The code is available [here](https://github.com/dmshirochenko/TCP_Client_Server).
 
+4. **Housing Assistance Bot**: A Python-based Telegram bot that interfaces with Idealista to parse new flat listings in Barcelona based on user filters. Explore the code [here](https://github.com/dmshirochenko/idealista_bot).
+
 
 ## Contact me :speech_balloon:
 
