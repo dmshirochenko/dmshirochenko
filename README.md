@@ -23,6 +23,7 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 Get in touch wit me!
 
+:link: <a href="https://www.linkedin.com/in/dmshirochenko/">Linkedin</a>
 
 :bird: <a href="https://twitter.com/dmshirochenko">Chat with me on Twitter</a>
 
