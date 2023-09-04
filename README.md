@@ -18,9 +18,9 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 5. **Advent of Code Solutions**: A delightful journey through coding challenges, where I've stored all my solutions to the Advent of Code puzzles. Built with passion using Python. Dive into the puzzles and solutions [here](https://github.com/dmshirochenko/aoc_2022).
 
-6. **Online Little Lemon Restaurant Project**: A Django-based web application for the "Little Lemon" restaurant, offering menu viewing, reservations, and more. I often use it as a reference for new Django projects. [Check it out](https://github.com/dmshirochenko/little_lemon_restaurant)
+6. **Online Little Lemon Restaurant Project**: A Django-based web application for the "Little Lemon" restaurant, offering menu viewing, reservations, and more. I often use it as a reference for new Django projects. Check repo [here](https://github.com/dmshirochenko/online_littlelemon_restaurant)
 
-7. **HTML, CSS, and Bootstrap Templates**: Enjoy some HTML, CSS, and Bootstrap fun in my templates repository, where creativity meets design. [Explore Here](https://github.com/dmshirochenko/HTML_templates)
+7. **HTML, CSS, and Bootstrap Templates**: Enjoy some HTML, CSS, and Bootstrap fun in my templates repository, where creativity meets design. Explore [here](https://github.com/dmshirochenko/HTML_templates)
 
 ## Contact me :speech_balloon:
 
