@@ -20,6 +20,7 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 6. **Online Little Lemon Restaurant Project**: A Django-based web application for the "Little Lemon" restaurant, offering menu viewing, reservations, and more. I often use it as a reference for new Django projects. [Check it out](https://github.com/dmshirochenko/little_lemon_restaurant)
 
+7. **HTML, CSS, and Bootstrap Templates**: Enjoy some HTML, CSS, and Bootstrap fun in my templates repository, where creativity meets design. [Explore Here](https://github.com/dmshirochenko/HTML_templates)
 
 ## Contact me :speech_balloon:
 
