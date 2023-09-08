@@ -8,6 +8,8 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 </p>
 
 ## Current projects:
+1. **Online Cinema**: This multi-framework application comprises an Admin Panel built with Django, an asynchronous backend using FastAPI, and an authentication API developed in Flask. Check out the repository [here] (https://github.com/dmshirochenko/online_cinema)
+
 1. **Telegram Bot for Tracking Personal Tasks**: This bot is built using Python and Redis. It helps users in tracking their personal tasks. You can find the code [here](https://github.com/dmshirochenko/telegram_bot-NoSQL_Redis).
 
 2. **Desktop Game in Python**: A fun and engaging desktop game created using Python and Pygame. Check out the project [here](https://github.com/dmshirochenko/knigth_game).
