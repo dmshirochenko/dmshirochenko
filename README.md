@@ -8,7 +8,7 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 </p>
 
 ## Current projects:
-1. **Online Cinema**: This multi-framework application comprises an Admin Panel built with Django, an asynchronous backend using FastAPI, and an authentication API developed in Flask. Check out the repository [here](https://github.com/dmshirochenko/online_cinema).
+1. **Online Cinema**: This multi-framework application comprises an Admin Panel built with Django, an asynchronous backend using FastAPI, and an authentication API developed in Flask.🐍Django 🍶Flask 🚀FastAPI 🔍Elasticsearch 🗃SQLAlchemy 🔐JWT 🍃MongoDB 🐘Postgres 🎴Redis 🦄Gunicorn 🛠uWSGI. Check out the repository [here](https://github.com/dmshirochenko/online_cinema).
 
 2. **Online Little Lemon Restaurant Project**: A Django-based web app featuring real-time menu updates, reservation booking, MySQL integration, and API endpoints for menu and booking. It includes user registration and authentication, as well as unit tests. Frequently serves as a reference for robust Django applications. 🐍Django 📡DjangoDRF 🔐Djoser 🐳Docker 🛢MySQL 🐘PostgreSQL 🌐API 🧪UnitTest ☁️Render.com. Check repo [here](https://github.com/dmshirochenko/online_littlelemon_restaurant)
 
