@@ -20,7 +20,7 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 6. **Housing Assistance Bot**: A Python-based Telegram bot that interfaces with Idealista to parse new flat listings in Barcelona based on user filters. 🔄aiohttp 🍶Flask 📄PyYAML 🍲BeautifulSoup4 ☁️GCP ☁️AWS. Explore the code [here](https://github.com/dmshirochenko/idealista_bot).
 
-7. **Advent of Code Solutions**: A delightful journey through coding challenges, where I've stored all my solutions to the Advent of Code puzzles. 🔍Algorithm 🎉Fun. Built with passion using Python. Dive into the puzzles and solutions 2023 [here](https://github.com/dmshirochenko/aoc_2023) [here](https://github.com/dmshirochenko/aoc_2022).
+7. **Advent of Code Solutions**: A delightful journey through coding challenges, where I've stored all my solutions to the Advent of Code puzzles. 🔍Algorithm 🎉Fun. Built with passion using Python. Dive into the puzzles and solutions 2023 year [here](https://github.com/dmshirochenko/aoc_2023) / 2023 year [here](https://github.com/dmshirochenko/aoc_2022).
 
 8. **HTML, CSS, and Bootstrap Templates**: Enjoy some HTML, CSS, and Bootstrap fun in my templates repository, where creativity meets design. 📄HTML 🛠Bootstrap 🎨CSS. Explore [here](https://github.com/dmshirochenko/HTML_templates)
 
