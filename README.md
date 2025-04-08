@@ -35,8 +35,11 @@ I'm Shirochenko Dmitriy, a Software Engineer originally from Kazakhstan, but cur
 
 Get in touch wit me!
 
+:web-site: <a href="https://www.self.so/dmitriy-shirochenko-ta246q">Resume Web Verison</a>
+
 :link: <a href="https://www.linkedin.com/in/dmshirochenko/">Linkedin</a>
 
 :bird: <a href="https://twitter.com/dmshirochenko">Chat with me on Twitter</a>
 
 :e-mail: <a href="mailto:dmshirochenko@gmail.com">Send an e-mail</a>
+
